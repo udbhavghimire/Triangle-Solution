@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Services | Care Hospitality</title>
+    <title>Services | Triangle Solution</title>
     <meta title="Services | Care Hospitality Management Services in Nepal">
     <meta name="Description" content="Care Hospitality Management is providing services related to Hotel Operations, Technical Solution and Hospitality management in Nepal.">
     <meta name="Keywords" content="care hospitality services,hospitality services in nepal,hotel management service">
@@ -44,14 +44,21 @@
           <div class="col-md-4 p-md-5" data-aos="fade-right">
             <img src="../assest/images/details-1.png" class="img-fluid" alt="">
           </div>
-          <div class="col-md-6 px-3 px-sm-5 py-3 mt-0 pt-3 pt-sm-0 px-3 mt-lg-0" data-aos="fade-up">
-          <h2 class="text-success fw-bold"><span class="text-dark">01. </span>Service <span
-                                class="gradient-text">One</span>
+          <div class="col-md-6 px-2 px-sm-3 py-3 mt-0 pt-3 pt-sm-0 px-3 mt-lg-0" data-aos="fade-up">
+          <h2 class="text-success fw-bold"><span class="text-dark">01. </span> <span
+                                class="gradient-text">Consultancy Support</span>
                         </h2>
                         <br>
-            <p class="inside_title2 justifyy text-mine" >
-              Voluptas nisi in quia excepturi nihil voluptas nam et ut. Expedita omnis eum consequatur non. Sed in asperiores aut repellendus. Error quisquam ab maiores. Quibusdam sit in officia
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nihil saepe voluptates illum! Et, blanditiis. Dolores dolor ipsam illo fugiat inventore laboriosam cumque, sapiente at, neque, atque saepe ullam ipsa.
+            
+              <ul class="inside_title2 justifyy text-mine ">
+                  <li>	Engineering Design of Drinking Water Supply, Wastewater, Faecal Sludge, Solid & Medical Waste Treatment Systems </li>
+                  <li>	Technical Consultation on design optimization, upgrading, and retrofitting of water, wastewater, faecal sludge  and solid waste treatment systems </li>
+                  <li>	Engineering design of building and other infrastructures</li>
+                  <li>	Research and Development including technical study, technology selection and viablity assessment, detailed feasibility study and survey on Water, Sanitation, Environment and other development sectors</li>
+                  <li>  Development of investment plan including business models and financial planning</li>
+                  <li>  Support in formulation of  policy, by-laws and guidelines</li>
+                  <li>	Citywide Inclusive Sanitation (CWIS) planning and implementation</li>
+              </ul>
             </p>
           </div>
         </div>
@@ -60,17 +67,20 @@
           <div class="col-md-4 order-1 order-md-2 p-md-5" data-aos="fade-left">
             <img src="../assest/images/details-2.png" class="img-fluid" alt="">
           </div>
-          <div class="col-md-6 pt-5 order-2 order-md-1 px-3 px-sm-5 py-3 mt-0 pt-3 pt-sm-0 px-3 mt-lg-0" data-aos="fade-up">
-          <h2 class="text-success fw-bold"><span class="text-dark ">02. </span>Service <span
-                                class="gradient-text">Two</span>
+          <div class="col-md-6 pt-5 order-2 order-md-1 px-3 px-sm-3 py-3 mt-0 pt-3 pt-sm-0 px-2 mt-lg-0" data-aos="fade-up">
+          <h2 class="text-success fw-bold"><span class="text-dark ">02. </span> <span
+                                class="gradient-text">Business Support</span>
                         </h2>
                         <br>
-            <p class="inside_title2 justifyy text-mine">
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt totam libero ipsa excepturi mollitia quia, explicabo alias officia reiciendis iure, ipsum labore aspernatur exercitationem soluta minima nobis voluptatum veniam ea!
-            </p>
+            
+              <ul class="inside_title2 justifyy text-mine">
+                  <li>	Market innovative water and sanitation solutions, transformative wastewater, faecal sludge and solid waste treatment technologies</li>
+                  <li>	Design and deliver trainings on water, sanitation and environment</li>
+                  <li>	Promote water, sanitation and environment related innovative tools and IT products</li>
+                  <li>	Development of knowledge products and advocacy materials</li>
+                  <li>	Market green products and technologies</li>
+              </ul>
+            
           </div>
         </div>
 
@@ -78,33 +88,19 @@
           <div class="col-md-4 p-md-5" data-aos="fade-right">
             <img src="../assest/images/details-3.png" class="img-fluid" alt="">
           </div>
-          <div class="col-md-6 pt-5 px-3 px-sm-5 py-3 mt-0 pt-3 pt-sm-0 px-3 mt-lg-0" data-aos="fade-up">
-          <h2 class="text-success fw-bold"><span class="text-dark">03. </span>Service <span
-                                class="gradient-text">Three</span>
+          <div class="col-md-6 pt-5 px-2 px-sm-3 py-3 mt-0 pt-3 pt-sm-0 px-3 mt-lg-0" data-aos="fade-up">
+          <h2 class="text-success fw-bold"><span class="text-dark">03. </span> <span
+                                class="gradient-text">Management Support</span>
                         </h2>
                         <br>
-            <p class="inside_title2 justifyy text-mine">Cupiditate placeat cupiditate placeat est ipsam culpa. Delectus quia minima quod. Sunt saepe odit aut quia voluptatem hic voluptas dolor doloremque
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque id fugit non? Officiis iste, fuga tempora veritatis maxime consequuntur omnis voluptatum ullam velit reprehenderit quas a modi ut quam et!
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque, explicabo animi! Eveniet nobis fugiat, deleniti velit provident molestias, voluptatibus tenetur repudiandae hic eum doloribus officiis. Minima, nisi repellendus. Adipisci, laboriosam..</p>
-          </div>
-        </div>
-
-        <div class="row content--services align-items-center justify-content-between">
-          <div class="col-md-4 order-1 order-md-2 p-md-5" data-aos="fade-left">
-            <img src="../assest/images/details-4.png" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-6 pt-5 order-2 order-md-1 px-3 px-sm-5 py-3 mt-0 pt-3 pt-sm-0 px-3 mt-lg-0" data-aos="fade-up">
-          <h2 class="text-success fw-bold"><span class="text-dark">04. </span>Service <span
-                                class="gradient-text">Four</span>
-                        </h2>
-                        <br>
-            <p class="inside_title2 justifyy text-mine">
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti repudiandae laborum ullam quod porro a minima quisquam obcaecati inventore. Libero quos minima commodi aliquam voluptatem atque aperiam ipsa laborum ratione.
-            </p>
-           
+          
+                <ul class="inside_title2 justifyy text-mine">
+                    <li>Construction and supervision of water, wastewater, solid waste and faecal sludge treatment facilities</li>
+                    <li>Turn-key services on O&M, management, and monitoring of water and sanitation systems</li>
+                    <li>Preparation of Terms of References including bidding documents for water and sanitation projects</li>
+                    <li>Project development and management</li>
+                </ul>
+            
           </div>
         </div>
 
@@ -112,7 +108,7 @@
     </section>
 
     <!--Contact section start-->
-    <div class="container pb-5">
+    <div class="container py-5">
         <div class="myback2">
             <div class="row">
                 <div class="col text-center px-5"><img src="../assest/images/contactt.png" alt="Contact image vector"
@@ -120,13 +116,13 @@
                 </div>
                 <h6 class="text-center mytitle">Let's get in touch !</h6>
                 <h6 class="text-center">Triangle Solution - </span><span><a
-                            href="mailto:info@carehospitality.com.np">info@trianglesolution.com.np</a></h6>
+                            href="mailto:info@carehospitality.com.np"> info@trianglesolution20@gmail.com</a></h6>
             </div>
             <div class="row row-cols-1 row-cols-md-3 mt-5">
                 <div class="col-md-3"></div>
                 <div class="col-md-6">
-                    <form action="../contactForm.php" method="POST">
-                        <input type="hidden" name="form_no" value="form_services">
+                    <form action="contactForm.php" method="POST">
+                        <input type="hidden" name="form_no" value="form_home">
                         <div class="row">
                             <div class="mb-3">
                                 <input type="text" placeholder="Full Name" name="name" class="fields" id="name">
@@ -137,9 +133,9 @@
                                 <select name="service_type" id="service" class="fields">
                                     <option value="" disabled selected>Select Service You want
                                     </option>
-                                    <option value="Hospitality Management">Hospitality Management</option>
-                                    <option value="Hotel Operations">Hotel Operations</option>
-                                    <option value="Technical Services">Technical Services</option>
+                                    <option value="Hospitality Management">Consultancy Support</option>
+                                    <option value="Hotel Operations">Business Support</option>
+                                    <option value="Technical Services">Management Support</option>
                                 </select>
                             </div>
                         </div>

@@ -154,10 +154,9 @@
 <div class="container pt-5" data-aos="fade-up">
 
   <header class="section-header text-center">
-  <h2 class="hero-title text-center pt-5">
-                    Our <span class="text-success fwsm">Values</span>
+  <h2 class="hero-title text-center py-5">
+                    Our <span class="text-success fwsm">Purpose</span>
                 </h2>
-    <p class="pb-5">Odit est perspiciatis laborum et dicta</p>
   </header>
 
   <div class="row">
@@ -165,24 +164,24 @@
     <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
       <div class="box">
         <img src="../assest/images/values-1.png" class="img-fluid" alt="">
-        <h3>Ad cupiditate sed est odio</h3>
-        <p>Eum ad dolor et. Autem aut fugiat debitis voluptatem consequuntur sit. Et veritatis id.</p>
+        <h3>Our Vision</h3>
+        <p>The one and only vision of Triangle Solution is to make a healthy, livable, and inclusive Environment for all.</p>
       </div>
     </div>
 
     <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
       <div class="box">
         <img src="../assest/images/values-2.png" class="img-fluid" alt="">
-        <h3>Voluptatem voluptatum alias</h3>
-        <p>Repudiandae amet nihil natus in distinctio suscipit id. Doloremque ducimus ea sit non.</p>
+        <h3>Our Mission</h3>
+        <p>The mission of Triangle Solution is to provide quality business and technical services   in Water, Sanitation and Environment through innovative, reliable and affordable solutions</p>
       </div>
     </div>
 
     <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="600">
       <div class="box">
         <img src="../assest/images/values-3.png" class="img-fluid" alt="">
-        <h3>Fugit cupiditate alias nobis.</h3>
-        <p>Quam rem vitae est autem molestias explicabo debitis sint. Vero aliquid quidem commodi.</p>
+        <h3>Our Approach</h3>
+        <p> Our approach to great projects begins with a time-tested process that discovers and addresses the unexpected. Regular team and client check-ins keep things rolling. </p>
       </div>
     </div>
 
@@ -244,20 +243,20 @@
 
     <!--Contact section start-->
     <div class="container py-5">
-        <div class="myback2 pt-5">
+        <div class="myback2">
             <div class="row">
                 <div class="col text-center px-5"><img src="../assest/images/contactt.png" alt="Contact image vector"
                         class="img-fluid">
                 </div>
                 <h6 class="text-center mytitle">Let's get in touch !</h6>
                 <h6 class="text-center">Triangle Solution - </span><span><a
-                            href="mailto:info@carehospitality.com.np">info@trianglesolution.com.np</a></h6>
+                            href="mailto:info@carehospitality.com.np"> info@trianglesolution20@gmail.com</a></h6>
             </div>
             <div class="row row-cols-1 row-cols-md-3 mt-5">
                 <div class="col-md-3"></div>
                 <div class="col-md-6">
-                    <form action="../contactForm.php" method="POST">
-                        <input type="hidden" name="form_no" value="form_about">
+                    <form action="contactForm.php" method="POST">
+                        <input type="hidden" name="form_no" value="form_home">
                         <div class="row">
                             <div class="mb-3">
                                 <input type="text" placeholder="Full Name" name="name" class="fields" id="name">
@@ -268,9 +267,9 @@
                                 <select name="service_type" id="service" class="fields">
                                     <option value="" disabled selected>Select Service You want
                                     </option>
-                                    <option value="Hospitality Management">Hospitality Management</option>
-                                    <option value="Hotel Operations">Hotel Operations</option>
-                                    <option value="Technical Services">Technical Services</option>
+                                    <option value="Hospitality Management">Consultancy Support</option>
+                                    <option value="Hotel Operations">Business Support</option>
+                                    <option value="Technical Services">Management Support</option>
                                 </select>
                             </div>
                         </div>
