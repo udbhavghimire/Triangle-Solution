@@ -41,8 +41,8 @@
             </div>
 
         <div class="row content--services align-items-center justify-content-between">
-          <div class="col-md-4 p-md-5" data-aos="fade-right">
-            <img src="../assest/images/details-1.png" class="img-fluid" alt="">
+          <div class="col-md-6 p-md-5" data-aos="fade-right">
+            <img src="../assest/images/consultancy.png" class="img-fluid" alt="">
           </div>
           <div class="col-md-6 px-2 px-sm-3 py-3 mt-0 pt-3 pt-sm-0 px-3 mt-lg-0" data-aos="fade-up">
           <h2 class="text-success fw-bold"><span class="text-dark">01. </span> <span
@@ -64,8 +64,8 @@
         </div>
 
         <div class="row content--services align-items-center justify-content-between">
-          <div class="col-md-4 order-1 order-md-2 p-md-5" data-aos="fade-left">
-            <img src="../assest/images/details-2.png" class="img-fluid" alt="">
+          <div class="col-md-6 order-1 order-md-2 p-md-5" data-aos="fade-left">
+            <img src="../assest/images/business.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-6 pt-5 order-2 order-md-1 px-3 px-sm-3 py-3 mt-0 pt-3 pt-sm-0 px-2 mt-lg-0" data-aos="fade-up">
           <h2 class="text-success fw-bold"><span class="text-dark ">02. </span> <span
@@ -85,8 +85,8 @@
         </div>
 
         <div class="row content--services align-items-center justify-content-between">
-          <div class="col-md-4 p-md-5" data-aos="fade-right">
-            <img src="../assest/images/details-3.png" class="img-fluid" alt="">
+          <div class="col-md-6 p-md-5" data-aos="fade-right">
+            <img src="../assest/images/management.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-6 pt-5 px-2 px-sm-3 py-3 mt-0 pt-3 pt-sm-0 px-3 mt-lg-0" data-aos="fade-up">
           <h2 class="text-success fw-bold"><span class="text-dark">03. </span> <span

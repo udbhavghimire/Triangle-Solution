@@ -98,7 +98,7 @@
             </div>
             <div class="row row-cols-1 row-cols-sm-2 mt-md-2">
                 <div class="col p-md-5">
-                    <img src="assest/images/img5.png" alt="heroo" class="img-fluid">
+                    <img src="assest/images/aboutus.png" alt="heroo" class="img-fluid">
                 </div>
                 <div class="col px-3 px-sm-5" style="display: flex;align-items: center;">
                     <div class="mt-0 pt-3 pt-sm-0 px-3 mt-lg-0">
@@ -415,7 +415,7 @@
     </div>
 
     <div class="pt-5"></div>
-    <div class="my-0 py-5 my-sm-5 bg-mine">
+    <div class="my-0 py-5 my-sm-5 bg-light">
         <div class="container px-4 p-sm-5">
             <h2 class="hero-title text-center pb-0 pt-5">
                 Happy <span class="text-success fwsm">Clients</span>

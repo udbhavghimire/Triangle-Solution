@@ -11,10 +11,10 @@
 }
 .bg-light1 {
   /* background-color: #4e8d7c; */
-  background-color: #ea5c2b;
+  background-color: #ff9900;
 }
 .bg-mine {
-  background-color: #fdf0e8;
+  background-color: #f7ead7;
 }
 .juss {
   display: flex !important;
@@ -27,14 +27,14 @@
   border-radius: 5px;
 }
 .nav-link:hover {
-  color: #ea5c2b;
+  color: #ff9900;
 }
 .mysideimg {
   width: 50px;
 }
 
 .linkactive {
-  color: #ea5c2b;
+  color: #ff9900;
   font-weight: 500;
 }
 .hero-container {
@@ -51,7 +51,7 @@
 }
 .hero-text {
   background-color: rgb(255, 255, 255);
-  /* border-left: 5px solid #EA5C2B; */
+  /* border-left: 5px solid #FF9900; */
 }
 .box {
   box-shadow: 0 1rem 3rem rgba(37, 37, 37, 0.175) !important;
@@ -88,11 +88,11 @@
 }
 
 .icons {
-  color: #ea5c2b;
+  color: #ff9900;
 }
 .counts {
   margin-top: 200px;
-  background: #f78349;
+  background: #ff9900;
   padding: 40px 0 20px 0;
   color: #fff;
 }
@@ -110,12 +110,12 @@
 }
 .mybtn {
   color: #ffffff;
-  background-color: #ff7f3f;
+  background-color: #ff9900;
   border-radius: 30px;
   margin-right: 0px;
 }
 .mybtnv {
-  color: #ff7f3f !important;
+  color: #ff9900 !important;
   border-radius: 30px;
   margin-right: 0px;
   margin-left: 0;
@@ -127,7 +127,7 @@ ul {
 }
 .mybtn:hover {
   color: white;
-  background-color: #ea5c2b;
+  background-color: #ff9900;
 }
 .btn2 {
   transition: transform 0.3s ease-in-out;
@@ -181,7 +181,7 @@ ul {
   line-height: 30px;
 }
 .text-success {
-  color: #ea5c2b !important;
+  color: #ff9900 !important;
 }
 .myback {
   padding: 20px 0px 20px 0px;
@@ -205,14 +205,14 @@ ul {
   background-color: none !important;
   color: white;
   border-radius: 30px;
-  border: 3px solid #ff7f3f;
+  border: 3px solid #ff9900;
 }
 .mybtn3:hover {
-  background-color: #ff7f3f !important;
+  background-color: #ff9900 !important;
   color: white;
   font-weight: 500;
   border-radius: 30px;
-  border: 3px solid #ff7f3f;
+  border: 3px solid #ff9900;
 }
 .mybtn3:hover .btn2 {
   color: white;
@@ -286,7 +286,7 @@ ul {
 .why-us .icon-boxes .icon-box {
   border-radius: 10px;
   background: #fff;
-  border: 1px solid rgb(255, 192, 169);
+  border: 1px solid #ff9900;
   padding: 20px 30px;
   width: 100%;
   transition: 0.3s;
@@ -319,7 +319,7 @@ ul {
 .services .icon-box .icon {
   width: 64px;
   height: 64px;
-  background: #ff7f3f;
+  background: #ff9900;
   border-radius: 50px;
   display: flex;
   align-items: center;
@@ -348,7 +348,7 @@ ul {
 }
 .services .icon-box:hover {
   transform: translateY(-10px);
-  border-color: #ea5c2b;
+  border-color: #ff9900;
 }
 .services .icon-box:hover h4 a {
   color: black;
@@ -385,7 +385,7 @@ ul {
 
 .hovereffect h2 {
   text-transform: uppercase;
-  color: #ea5c2b;
+  color: #ff9900;
   text-align: center;
   position: relative;
   font-size: 17px;
@@ -403,7 +403,7 @@ ul {
   display: inline-block;
   text-transform: uppercase;
   color: #fff;
-  border: 1px solid #ea5c2b;
+  border: 1px solid #ff9900;
   background-color: transparent;
   opacity: 0;
   filter: alpha(opacity=0);
@@ -454,7 +454,7 @@ ul {
 }
 .values .box h3 {
   font-size: 24px;
-  color: #ea5c2b;
+  color: #ff9900;
   font-weight: 700;
   margin-bottom: 18px;
 }
@@ -503,7 +503,7 @@ ul {
   width: 100%;
   height: 100%;
   z-index: -1;
-  background-image: linear-gradient(90deg, #ff7f3f, #7c2ae800);
+  background-image: linear-gradient(90deg, #f1a83a, #7c2ae800);
 }
 .card {
   border: none;
@@ -553,7 +553,7 @@ ul {
 .testimonial-author {
   display: block;
   font-weight: 800;
-  color: #ea5c2b;
+  color: #ff9900;
 }
 
 .flickity-page-dots {
@@ -562,11 +562,11 @@ ul {
 .flickity-button,
 .flickity-button:hover {
   color: white;
-  background-color: #ff7f3f;
+  background-color: #ff9900;
   box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.212);
 }
 .flickity-page-dots .dot.is-selected {
-  background: #ff7f3f;
+  background: #ff9900;
 }
 .myback2 {
   padding: 10px 10px 10px 10px;
@@ -676,7 +676,7 @@ ul {
   transition: all 0.5s ease 0s;
 }
 .our-team:hover .team-content {
-  border: 2px dotted #ea5c2b;
+  border: 2px dotted #ff9900;
   bottom: -40px;
 }
 .our-team .team-info {
@@ -694,12 +694,12 @@ ul {
   transition: all 0.5s ease 0s;
 }
 .our-team:hover .title {
-  color: #ea5c2b;
+  color: #ff9900;
 }
 .our-team .post {
   display: block;
   font-size: 0.9rem;
-  color: #ea5c2b;
+  color: #ff9900;
 }
 .fields {
   width: 100%;
@@ -940,7 +940,7 @@ ul {
 .details .content--services h3 {
   font-weight: 600;
   font-size: 26px;
-  color: #ea5c2b;
+  color: #ff9900;
 }
 .details .content--services p:last-child {
   margin-bottom: 0;
@@ -1041,7 +1041,7 @@ ul {
   transition: 0.3s;
 }
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #ea5c2b;
+  color: #ff9900;
 }
 .portfolio .portfolio-wrap:hover::before {
   opacity: 1;

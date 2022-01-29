@@ -31,9 +31,8 @@
                         : "src='../assest/images/triangle.png'"; ?> alt="logo of triangle solution" class="img-fluid"
                     width="150px">
                 </a>
-                <!-- <span class="typewriter">
-                  <p>" Together we can "</p>
-                </span> -->
+                <h6>Triangle Solution</h6>
+               
             </div>
             <div class="col col-md-8 text-end haha1">
                 <button class="btn no-border toggle">
