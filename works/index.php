@@ -47,7 +47,7 @@
           <p class="justifyy text-center hero-subtitle">Magnam dolores commodi suscipit lorem ispurn</p>
         </div>
 
-        <div class="row pt-5" data-aos="fade-up" data-aos-delay="100">
+        <!-- <div class="row pt-5" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-12  pt-5 ">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
@@ -186,7 +186,43 @@
             </div>
           </div>
 
-        </div>
+        </div> -->
+
+
+  <table class="table table-striped table-bordered mt-5" >
+  <thead>
+    <tr class='overflow-hidden text-nowrap'>
+      <th>Name of the project</th>
+      <th>Client Name</th>
+      <th>Project Status</th>
+      <th>Project Details</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  <?php
+
+$conn = mysqli_connect('localhost','root','','trianglesolution');
+$select = "SELECT * FROM project";
+$run = mysqli_query($conn,$select);
+while($row_project = mysqli_fetch_array($run)){
+    $p_id = $row_project['p_id'];
+    $p_name = $row_project['p_name'];
+    $c_name = $row_project['c_name'];
+    $p_status = $row_project['p_status'];
+    $p_details = $row_project['p_details'];
+
+  ?>
+    <tr>
+      <td><?php echo $p_name; ?></td>
+      <td><?php echo $c_name; ?></td>
+      <td><?php echo $p_status; ?></td>
+      <td><?php echo $p_details; ?></td>
+    </tr>
+<?php  } ?>
+
+  </tbody>
+</table>
 
       </div>
     </section><!-- End Portfolio Section -->
