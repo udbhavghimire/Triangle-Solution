@@ -44,7 +44,6 @@
         <h2 class="hero-title text-center">
                     Our <span class="text-success fwsm">Works</span>
                 </h2>
-          <p class="justifyy text-center hero-subtitle">Magnam dolores commodi suscipit lorem ispurn</p>
         </div>
 
         <!-- <div class="row pt-5" data-aos="fade-up" data-aos-delay="100">
