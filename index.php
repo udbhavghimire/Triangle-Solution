@@ -70,16 +70,13 @@
                 <div class="col-3 myfle ">
                     <div class="carousel-control-div bg-white py-0 py-md-2 rounded px-1">
                         <div class="item1 py-2 pb-md-2 btn">
-                            <img src="assest/images/img1.png" alt="" class="img-fluid mysideimg">
+                            <img src="assest/images/slider1.png" alt="" class="img-fluid mysideimg">
                         </div>
                         <div class="item1 py-0 py-md-2 btn">
-                            <img src="assest/images/img2.png" alt="" class="img-fluid mysideimg">
+                            <img src="assest/images/slider2.png" alt="" class="img-fluid mysideimg">
                         </div>
                         <div class="item1 py-0 py-md-2 btn">
-                            <img src="assest/images/img3.png" alt="" class="img-fluid mysideimg">
-                        </div>
-                        <div class="item1 py-2 pt-md-2 btn">
-                            <img src="assest/images/img4.png" alt="" class="img-fluid mysideimg">
+                            <img src="assest/images/slider3.png" alt="" class="img-fluid mysideimg">
                         </div>
                     </div>
                 </div>
@@ -204,9 +201,9 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
           <div class="icon-box d-flex flex-column justify-content-between">
               <div>
-              <div class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-file-earmark-text" viewBox="0 0 16 16">
-  <path d="M5.5 7a.5.5 0 0 0 0 1h5a.5.5 0 0 0 0-1h-5zM5 9.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0 2a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2a.5.5 0 0 1-.5-.5z"/>
-  <path d="M9.5 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.5L9.5 0zm0 1v2A1.5 1.5 0 0 0 11 4.5h2V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h5.5z"/>
+              <div class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-gear" viewBox="0 0 16 16">
+  <path d="M8 4.754a3.246 3.246 0 1 0 0 6.492 3.246 3.246 0 0 0 0-6.492zM5.754 8a2.246 2.246 0 1 1 4.492 0 2.246 2.246 0 0 1-4.492 0z"/>
+  <path d="M9.796 1.343c-.527-1.79-3.065-1.79-3.592 0l-.094.319a.873.873 0 0 1-1.255.52l-.292-.16c-1.64-.892-3.433.902-2.54 2.541l.159.292a.873.873 0 0 1-.52 1.255l-.319.094c-1.79.527-1.79 3.065 0 3.592l.319.094a.873.873 0 0 1 .52 1.255l-.16.292c-.892 1.64.901 3.434 2.541 2.54l.292-.159a.873.873 0 0 1 1.255.52l.094.319c.527 1.79 3.065 1.79 3.592 0l.094-.319a.873.873 0 0 1 1.255-.52l.292.16c1.64.893 3.434-.902 2.54-2.541l-.159-.292a.873.873 0 0 1 .52-1.255l.319-.094c1.79-.527 1.79-3.065 0-3.592l-.319-.094a.873.873 0 0 1-.52-1.255l.16-.292c.893-1.64-.902-3.433-2.541-2.54l-.292.159a.873.873 0 0 1-1.255-.52l-.094-.319zm-2.633.283c.246-.835 1.428-.835 1.674 0l.094.319a1.873 1.873 0 0 0 2.693 1.115l.291-.16c.764-.415 1.6.42 1.184 1.185l-.159.292a1.873 1.873 0 0 0 1.116 2.692l.318.094c.835.246.835 1.428 0 1.674l-.319.094a1.873 1.873 0 0 0-1.115 2.693l.16.291c.415.764-.42 1.6-1.185 1.184l-.291-.159a1.873 1.873 0 0 0-2.693 1.116l-.094.318c-.246.835-1.428.835-1.674 0l-.094-.319a1.873 1.873 0 0 0-2.692-1.115l-.292.16c-.764.415-1.6-.42-1.184-1.185l.159-.291A1.873 1.873 0 0 0 1.945 8.93l-.319-.094c-.835-.246-.835-1.428 0-1.674l.319-.094A1.873 1.873 0 0 0 3.06 4.377l-.16-.292c-.415-.764.42-1.6 1.185-1.184l.292.159a1.873 1.873 0 0 0 2.692-1.115l.094-.319z"/>
 </svg></div>
               <h4><a href="">Management Support</a></h4>
               <p class="inside_title2">
@@ -398,19 +395,36 @@
                 Business Trust <span class="text-success fwsm">Us</span>
             </h2>
             <p class="hero-subtitle text-center">Providing value to your business</p>
-            <div class="row row-cols-4 py-3 py-md-5">
-                <div class="col text-center">
-                    <img src="assest/images/vision.png" alt="logo" class="img-fluid clientlogo">
+            <div class="row text-center features mt-5 pt-5">
+            <div class="col-lg-12 mt-5 mt-lg-0 d-flex">
+            <div class="row align-self-center gy-4">
+
+              <div class="col-md-3 col-sm-6 col-6" data-aos="zoom-out" data-aos-delay="200">
+                <div class="feature-box d-flex align-items-center">
+                  <h3>Environment & Public Health Organization (ENPHO)</h3>
                 </div>
-                <div class="col text-center">
-                    <img src="assest/images/mission.png" alt="logo" class="img-fluid clientlogo">
+              </div>
+
+              <div class="col-md-3 col-sm-6 col-6" data-aos="zoom-out" data-aos-delay="300">
+                <div class="feature-box d-flex align-items-center">
+                  <h3>Innovative Solutions Pvt. Ltd.</h3>
                 </div>
-                <div class="col text-center">
-                    <img src="assest/images/vision.png" alt="logo" class="img-fluid clientlogo">
+              </div>
+
+              <div class="col-md-3 col-sm-6 col-6" data-aos="zoom-out" data-aos-delay="400">
+                <div class="feature-box d-flex align-items-center">
+                  <h3>EcoConcern Pvt. Ltd.</h3>
                 </div>
-                <div class="col text-center">
-                    <img src="assest/images/mission.png" alt="logo" class="img-fluid clientlogo">
+              </div>
+
+              <div class="col-md-3 col-sm-6 col-6" data-aos="zoom-out" data-aos-delay="500">
+                <div class="feature-box d-flex align-items-center">
+                  <h3>500B Solutions Pvt. Ltd.</h3>
                 </div>
+              </div>
+
+            </div>
+          </div>
             </div>
     </div>
 
@@ -425,10 +439,7 @@
                 <div class="gallery-cell">
                     <div class="testimonial bg-white shadow-sm rounded p-4">
                         <img class="testimonial-avatar" src="assest/images/vishal.jpg">
-                        <q class="testimonial-quote">We are confident in recommending CARE Hospitality to any of our
-                            colleagues in the hospitality industry who want to make a positive impact on their Customer
-                            Service Experience, Property Management and can heartily recommend to assist in taking
-                            employees to the next level.</q>
+                        <q class="testimonial-quote"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus nihil inventore atque perferendis provident distinctio! Explicabo, ex quos, possimus non fugit error expedita ipsam excepturi dolor sunt eum corrupti eaque!</q>
                         <span class="testimonial-author">Joe Smith, CEO of Cubix</span>
                     </div>
                 </div>

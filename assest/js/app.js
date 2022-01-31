@@ -1,9 +1,8 @@
 const backcontainer = document.querySelector(".hero-container");
 const item1s = document.querySelectorAll(".item1");
-const car1 = "./assest/images/img1.png";
-const car2 = "./assest/images/img2.png";
-const car3 = "./assest/images/img3.png";
-const car4 = "./assest/images/img4.png";
+const car1 = "./assest/images/slider1.png";
+const car2 = "./assest/images/slider2.png";
+const car3 = "./assest/images/slider3.png";
 const hamburger = "../../assest/images/menu.svg";
 const cross = "../../assest/images/cross.svg";
 const btn1 = document.querySelectorAll(".btn1");
@@ -39,8 +38,7 @@ morebtn3.addEventListener("click", () => {
 let carslider = {
   prev: car1,
   now: car2,
-  next: car3,
-  nextt: car4,
+  nextt: car3,
 };
 
 item1s.forEach((item) => {
@@ -56,8 +54,7 @@ var myvar = setInterval(function () {
   /* console.log(carslider); */
   var infosave = carslider.prev;
   carslider.prev = carslider.now;
-  carslider.now = carslider.next;
-  carslider.next = carslider.nextt;
+  carslider.now = carslider.nextt;
   carslider.nextt = infosave;
   backcontainer.style.backgroundImage = `url(${carslider.now})`;
 }, 10000);
@@ -114,4 +111,3 @@ function toggleHandle(e) {
     imgg.src = cross;
   }
 }
-

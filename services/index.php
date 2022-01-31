@@ -25,7 +25,7 @@
             <div>
                 <h3 class="hero-title ll ll1">Our Services</h3>
                 <p class="ll2 ll hero-subtitle">
-                    <b>Triangle Solution</b> – Service tagline goes here
+                    <b>Triangle Solution</b> –  A healthy, livable, and inclusive Environment for all.
                 </p>
             </div>
         </div>

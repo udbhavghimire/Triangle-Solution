@@ -24,8 +24,7 @@
             <div>
                 <h3 class="hero-title ll ll1">About Us</h3>
                 <p class="ll2 ll hero-subtitle">
-                    <b>Triangle Solution</b> – Tagline of the company
-                </p>
+                    <b>Triangle Solution</b> – A healthy, livable, and inclusive Environment for all.
 
             </div>
         </div>

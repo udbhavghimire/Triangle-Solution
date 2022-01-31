@@ -56,9 +56,9 @@
                                 <select name="service_type" id="service" class="fields">
                                     <option value="" disabled selected>Select Service You want
                                     </option>
-                                    <option value="Hospitality Management">Hospitality Management</option>
-                                    <option value="Hotel Operations">Hotel Operations</option>
-                                    <option value="Technical Services">Technical Services</option>
+                                    <option value="Hospitality Management">Consultancy Support</option>
+                                    <option value="Hotel Operations">Business Support</option>
+                                    <option value="Technical Services">Management Support</option>
                                 </select>
                             </div>
                         </div>
