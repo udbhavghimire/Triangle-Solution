@@ -154,8 +154,8 @@
                     <td class="py-4"><?php echo $row["p_status"]; ?></td>
                     <td class="py-4"><?php echo $row["p_details"]; ?></td>
                     <td class="py-4">
-                      <a href="editpage.php?edit=<?php echo $row['p_id']; ?>" class="btn btn-success" >Edit</a>
-                      <a href="deletedata.php?delete=<?php echo $row['p_id']; ?>" class="btn btn-danger" >Delete</a>
+                      <a href="editpage.php?edit=<?php echo $row['p_id']; ?>" class="btn btn-outline-secondary w-100 mb-2" >Edit</a>
+                      <a href="deletedata.php?delete=<?php echo $row['p_id']; ?>" class="btn btn-danger w-100" >Delete</a>
                     </td>
                   </tr>
                   <?php
