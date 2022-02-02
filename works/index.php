@@ -195,7 +195,7 @@
 
   <?php
 
-include_once 'loginsystem/includes/dbh.inc.php';
+include_once 'admin/loginsystem/includes/dbh.inc.php';
 $select = "SELECT * FROM project";
 $run = mysqli_query($conn,$select);
 while($row_project = mysqli_fetch_array($run)){
