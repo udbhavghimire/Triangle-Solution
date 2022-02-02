@@ -40,12 +40,6 @@
      <section id="portfolio" class="portfolio pt-5">
       <div class="container">
 
-        <div class="section-title pt-5" data-aos="fade-left">
-        <h2 class="hero-title text-center">
-                    Our <span class="text-success fwsm">Works</span>
-                </h2>
-        </div>
-
         <!-- <div class="row pt-5" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-12  pt-5 ">
             <ul id="portfolio-flters">
@@ -187,21 +181,21 @@
 
         </div> -->
 
-
+<div class="table-responsive">
   <table class="table table-striped table-bordered mt-5" >
   <thead>
     <tr class='overflow-hidden text-nowrap'>
-      <th>Name of the project</th>
-      <th>Client Name</th>
-      <th>Project Status</th>
-      <th>Project Details</th>
+      <th scope="col">Name of the project</th>
+      <th scope="col">Client Name</th>
+      <th scope="col">Project Status</th>
+      <th scope="col" >Project Details</th>
     </tr>
   </thead>
   <tbody>
 
   <?php
 
-$conn = mysqli_connect('localhost','root','','trianglesolution');
+include_once 'loginsystem/includes/dbh.inc.php';
 $select = "SELECT * FROM project";
 $run = mysqli_query($conn,$select);
 while($row_project = mysqli_fetch_array($run)){
@@ -213,7 +207,7 @@ while($row_project = mysqli_fetch_array($run)){
 
   ?>
     <tr>
-      <td><?php echo $p_name; ?></td>
+      <td scope="row"><?php echo $p_name; ?></td>
       <td><?php echo $c_name; ?></td>
       <td><?php echo $p_status; ?></td>
       <td><?php echo $p_details; ?></td>
@@ -222,6 +216,7 @@ while($row_project = mysqli_fetch_array($run)){
 
   </tbody>
 </table>
+</div>
 
       </div>
     </section><!-- End Portfolio Section -->
