@@ -1,10 +1,10 @@
 <?php 
 
-	/* $dbservername = "localhost";
-	$dbusername = "root";
-	$dbpassword = "";
-	$dbname = "trianglesolution";
-	$conn = mysqli_connect($dbservername,$dbusername,$dbpassword,$dbname); */
+	// $dbservername = "localhost";
+	// $dbusername = "root";
+	// $dbpassword = "";
+	// $dbname = "trianglesolution";
+	// $conn = mysqli_connect($dbservername,$dbusername,$dbpassword,$dbname);
 	
 	$dbservername = "localhost";
 	$dbusername = "u295830655_tri";

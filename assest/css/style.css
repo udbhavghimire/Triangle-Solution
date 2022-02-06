@@ -109,7 +109,7 @@
 }
 
 .icons {
-  color: #ff9900;
+  color: #2eab2e;
 }
 .counts {
   margin-top: 200px;
@@ -136,7 +136,7 @@
   margin-right: 0px;
 }
 .mybtnv {
-  color: #ff9900 !important;
+  color: #2eab2e !important;
   border-radius: 30px;
   margin-right: 0px;
   margin-left: 0;
@@ -199,7 +199,7 @@
   line-height: 30px;
 }
 .text-success {
-  color: #ff9900 !important;
+  color: #2eab2e !important;
 }
 .myback {
   padding: 20px 0px 20px 0px;
@@ -366,7 +366,7 @@
 }
 .services .icon-box:hover {
   transform: translateY(-10px);
-  border-color: #ff9900;
+  border-color: #2eab2e;
 }
 .services .icon-box:hover h4 a {
   color: black;
@@ -472,7 +472,7 @@
 }
 .values .box h3 {
   font-size: 24px;
-  color: #ff9900;
+  color: #2eab2e;
   font-weight: 700;
   margin-bottom: 18px;
 }
@@ -866,7 +866,7 @@
 .list {
   list-style: none;
   width: 240px;
-  background-color: #edfff5;
+  background-color: #fff1dd;
   color: rgb(255, 255, 255);
   z-index: 11;
   display: flex;
@@ -883,7 +883,7 @@
 }
 .list-item {
   text-decoration: none;
-  color: rgb(8, 71, 29);
+  color: #ff9900;
   text-align: left;
   padding: 20px 40px;
   font-weight: bolder;
@@ -894,7 +894,7 @@
 }
 .list-item:hover {
   text-decoration: none;
-  color: rgb(0, 112, 37);
+  color: #ff9900;
   text-align: left;
   padding: 20px 40px;
   font-weight: bolder;

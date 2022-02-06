@@ -150,7 +150,7 @@
               <div class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-dribbble" viewBox="0 0 16 16">
   <path fill-rule="evenodd" d="M8 0C3.584 0 0 3.584 0 8s3.584 8 8 8c4.408 0 8-3.584 8-8s-3.592-8-8-8zm5.284 3.688a6.802 6.802 0 0 1 1.545 4.251c-.226-.043-2.482-.503-4.755-.217-.052-.112-.096-.234-.148-.355-.139-.33-.295-.668-.451-.99 2.516-1.023 3.662-2.498 3.81-2.69zM8 1.18c1.735 0 3.323.65 4.53 1.718-.122.174-1.155 1.553-3.584 2.464-1.12-2.056-2.36-3.74-2.551-4A6.95 6.95 0 0 1 8 1.18zm-2.907.642A43.123 43.123 0 0 1 7.627 5.77c-3.193.85-6.013.833-6.317.833a6.865 6.865 0 0 1 3.783-4.78zM1.163 8.01V7.8c.295.01 3.61.053 7.02-.971.199.381.381.772.555 1.162l-.27.078c-3.522 1.137-5.396 4.243-5.553 4.504a6.817 6.817 0 0 1-1.752-4.564zM8 14.837a6.785 6.785 0 0 1-4.19-1.44c.12-.252 1.509-2.924 5.361-4.269.018-.009.026-.009.044-.017a28.246 28.246 0 0 1 1.457 5.18A6.722 6.722 0 0 1 8 14.837zm3.81-1.171c-.07-.417-.435-2.412-1.328-4.868 2.143-.338 4.017.217 4.251.295a6.774 6.774 0 0 1-2.924 4.573z"/>
 </svg></div>
-              <h4><a href="">Consultancy Support</a></h4>
+              <h4 class><a href="" class="text-success fwsm">Consultancy Support</a></h4>
               
                 <p class="inside_title2">
                     Engineering Design of Drinking Water Supply,  Wastewater, Faecal Sludge , Solid & Medical Waste Treatment Systems
@@ -177,7 +177,7 @@
   <path d="M5.5 7a.5.5 0 0 0 0 1h5a.5.5 0 0 0 0-1h-5zM5 9.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0 2a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2a.5.5 0 0 1-.5-.5z"/>
   <path d="M9.5 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.5L9.5 0zm0 1v2A1.5 1.5 0 0 0 11 4.5h2V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h5.5z"/>
 </svg></div>
-              <h4><a href="">Business Support</a></h4>
+              <h4 class="text-success"><a href="" class="text-success fwsm">Business Support</a></h4>
               
               <p class="inside_title2">
                          Market innovative water and sanitation solutions, transformative wastewater, faecal sludge and solid waste treatment technologies
@@ -205,7 +205,7 @@
   <path d="M8 4.754a3.246 3.246 0 1 0 0 6.492 3.246 3.246 0 0 0 0-6.492zM5.754 8a2.246 2.246 0 1 1 4.492 0 2.246 2.246 0 0 1-4.492 0z"/>
   <path d="M9.796 1.343c-.527-1.79-3.065-1.79-3.592 0l-.094.319a.873.873 0 0 1-1.255.52l-.292-.16c-1.64-.892-3.433.902-2.54 2.541l.159.292a.873.873 0 0 1-.52 1.255l-.319.094c-1.79.527-1.79 3.065 0 3.592l.319.094a.873.873 0 0 1 .52 1.255l-.16.292c-.892 1.64.901 3.434 2.541 2.54l.292-.159a.873.873 0 0 1 1.255.52l.094.319c.527 1.79 3.065 1.79 3.592 0l.094-.319a.873.873 0 0 1 1.255-.52l.292.16c1.64.893 3.434-.902 2.54-2.541l-.159-.292a.873.873 0 0 1 .52-1.255l.319-.094c1.79-.527 1.79-3.065 0-3.592l-.319-.094a.873.873 0 0 1-.52-1.255l.16-.292c.893-1.64-.902-3.433-2.541-2.54l-.292.159a.873.873 0 0 1-1.255-.52l-.094-.319zm-2.633.283c.246-.835 1.428-.835 1.674 0l.094.319a1.873 1.873 0 0 0 2.693 1.115l.291-.16c.764-.415 1.6.42 1.184 1.185l-.159.292a1.873 1.873 0 0 0 1.116 2.692l.318.094c.835.246.835 1.428 0 1.674l-.319.094a1.873 1.873 0 0 0-1.115 2.693l.16.291c.415.764-.42 1.6-1.185 1.184l-.291-.159a1.873 1.873 0 0 0-2.693 1.116l-.094.318c-.246.835-1.428.835-1.674 0l-.094-.319a1.873 1.873 0 0 0-2.692-1.115l-.292.16c-.764.415-1.6-.42-1.184-1.185l.159-.291A1.873 1.873 0 0 0 1.945 8.93l-.319-.094c-.835-.246-.835-1.428 0-1.674l.319-.094A1.873 1.873 0 0 0 3.06 4.377l-.16-.292c-.415-.764.42-1.6 1.185-1.184l.292.159a1.873 1.873 0 0 0 2.692-1.115l.094-.319z"/>
 </svg></div>
-              <h4><a href="">Management Support</a></h4>
+              <h4><a href="" class="text-success fwsm">Management Support</a></h4>
               <p class="inside_title2">
               Construction and supervision of water, wastewater, solid waste and faecal sludge treatment facilities
               </p>
@@ -392,10 +392,10 @@
 
     <div class="container pb-5 pb-sm-5 px-4 p-sm-5">
             <h2 class="hero-title text-center pb-0 pt-5">
-                Business Trust <span class="text-success fwsm">Us</span>
+                Our <span class="text-success fwsm">Clients</span>
             </h2>
             <p class="hero-subtitle text-center">Providing value to your business</p>
-            <div class="row text-center features mt-5 pt-5">
+            <div class="row text-center features pt-md-5 pt-sm-3">
             <div class="col-lg-12 mt-5 mt-lg-0 d-flex">
             <div class="row align-self-center gy-4">
 
@@ -432,9 +432,9 @@
     <div class="my-0 py-5 my-sm-5 bg-light">
         <div class="container px-4 p-sm-5">
             <h2 class="hero-title text-center pb-0 pt-5">
-                Happy <span class="text-success fwsm">Clients</span>
+                <span class="text-success fwsm">Testimonial</span>
             </h2>
-            <p class="hero-subtitle text-center">See what our clients say !</p>
+            <p class="hero-subtitle text-center">See what our clients says !</p>
             <div class="main-gallery">
                 <div class="gallery-cell">
                     <div class="testimonial bg-white shadow-sm rounded p-4">
@@ -470,41 +470,17 @@
 
 
 
-    <!-- subscribe to our newsletter -->
-    <div class="pt-5"></div>
-  <div class="container mt-5 py-4">
-    <div class="row row-cols-1 row-cols-sm-3 pt-5">
-      <div class="col-sm-2"></div>
-      <div class="col-sm-8">
-        <div class="bg-light p-5 px-2 pb-4 position-relative d-flex justify-content-center rounded-3">
-          <div class="topimgg-news shadow-sm p-3 position-absolute">
-            <img src="assest/images/newsletter.png" alt="..." class="img-fluid">
-          </div>
-          <div class="w-75 w-m-100">
-            <div class="text-center mt-2">
-              <span class="fw-bold fs-5 fs-sm-3">
-                SUBSCRIBE
-              </span>
-              <span class="mx-1"></span>
-              <span class="text-success fs-5 fs-sm-4 fw-light">
-                TO OUR NEWSLETTER
-              </span>
-            </div>
-            <div class="input-group my-4">
-              <input type="text" class="form-control py-3 no-border" placeholder="Enter your email"
-                aria-label="Enter your email" aria-describedby="basic-addon2">
-              <button class="btn mybtn no-border" id="basic-addon2">Subscribe</button>
-            </div>
-            <p class="text-center mt-3 fs-vsmall">
-              Stay up to date with our latest news and updates
-            </p>
-          </div>
+    <!-- location map -->
+  <div class="container px-4">
+      <div class="row text-center">
+      <h2 class="hero-title text-center pb-0 pt-5">Find us where
+                <span class="text-success fwsm"> we are</span>
+        </h2>
+        <div class="pt-5">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14132.0234448709!2d85.31344033165037!3d27.686213724808997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb19b711261b9d%3A0xc50ac7fa4caee2!2sJwagal%2C%20Lalitpur%2044600!5e0!3m2!1sen!2snp!4v1644154459082!5m2!1sen!2snp" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
       </div>
-      <div class="col-sm-2"></div>
-    </div>
   </div>
-  <div class="my-5 py-2"></div>
     
     <!--Contact section start-->
     <div class="container py-5">
