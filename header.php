@@ -14,9 +14,9 @@
     <a href="/works" <?php echo ($page=='works' ) ? "class='list-item mnact'" : "class='list-item'" ; ?>>
         Works
     </a>
-    <a href="/team" <?php echo ($page=='team' ) ? "class='list-item mnact'" : "class='list-item'" ; ?>>
+    <!-- <a href="/team" <?php echo ($page=='team' ) ? "class='list-item mnact'" : "class='list-item'" ; ?>>
         Our Team
-    </a>
+    </a> -->
     <a href="/contact" <?php echo ($page=='contact' ) ? "class='list-item mnact'" : "class='list-item'" ; ?>>
         Contact
     </a>
@@ -58,10 +58,10 @@
                         <a <?php echo ($page=='works' ) ? "class='nav-link linkactive px-4'"
                             : "class='nav-link px-4' aria-current='page'" ; ?> href="/works">Works</a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a <?php echo ($page=='team' ) ? "class='nav-link linkactive px-4'"
                             : "class='nav-link px-4' aria-current='page'" ; ?> href="/team">Our Team</a>
-                    </li>
+                    </li> -->
                     <li class="nav-item">
                         <a <?php echo ($page=='contact' ) ? "class='nav-link linkactive px-4'"
                             : "class='nav-link px-4' aria-current='page'" ; ?> href="/contact">Contact</a>
