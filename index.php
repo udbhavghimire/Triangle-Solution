@@ -32,7 +32,7 @@
             <div class="row row-cols-2 row-cols-md-2">
                 <div class="col-9 myfle">
                     <div class="hero-text p-3 p-md-5 rounded box">
-                        <h1 class="hero-titletop">Triangle <span class="text-success fwsm">Solution</span> 
+                        <h1 class="hero-titletop"><span class="text-success fwsm"> Triangle Solution</span> 
                         </h1>
                         <p class="hero-subtitle pt-1">
                         A healthy, livable, and inclusive Environment for all.
@@ -90,7 +90,7 @@
         <div class="my-0 py-0 my-sm-5 py-sm-5">
             <div class="row row-cols-1">
                 <h2 class="hero-title text-center py-5">
-                    About <span class="text-success fwsm">us</span>
+                     <span class="text-success fwsm">About us</span>
                 </h2>
             </div>
             <div class="row row-cols-1 row-cols-sm-2 mt-md-2">
@@ -137,7 +137,7 @@
         <div class="section-title py-5">
         <div class="row row-cols-1">
                 <h2 class="hero-title text-center">
-                    Our <span class="text-success fwsm">Services</span>
+                     <span class="text-success fwsm">Our Services</span>
                 </h2>
                 <p class="justifyy text-center hero-subtitle">Services we provide</p>
             </div>
@@ -392,7 +392,7 @@
 
     <div class="container pb-5 pb-sm-5 px-4 p-sm-5">
             <h2 class="hero-title text-center pb-0 pt-5">
-                Our <span class="text-success fwsm">Clients</span>
+                 <span class="text-success fwsm">Our Clients</span>
             </h2>
             <p class="hero-subtitle text-center">Providing value to your business</p>
             <div class="row text-center features pt-md-5 pt-sm-3">
@@ -486,8 +486,8 @@
     <!-- location map -->
   <div class="container px-4">
       <div class="row text-center">
-      <h2 class="hero-title text-center pb-0 pt-5">Find us where
-                <span class="text-success fwsm"> we are</span>
+      <h2 class="hero-title text-center pb-0 pt-5">
+                <span class="text-success fwsm">Find us where we are</span>
         </h2>
         <div class="pt-5 map-responsive">
         <iframe class="google-map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14132.0234448709!2d85.31344033165037!3d27.686213724808997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb19b711261b9d%3A0xc50ac7fa4caee2!2sJwagal%2C%20Lalitpur%2044600!5e0!3m2!1sen!2snp!4v1644154459082!5m2!1sen!2snp" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

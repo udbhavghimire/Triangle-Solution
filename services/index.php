@@ -36,7 +36,7 @@
       <div class="container px-4 py-5 p-sm-5">
       <div class="row row-cols-1 pb-5 mb-0 mb-md-5">
                 <h2 class="hero-title text-center">
-                    Building brands <span class="text-success fwsm"> with purpose</span>
+                     <span class="text-success fwsm">Building brands with purpose</span>
                 </h2>
             </div>
 

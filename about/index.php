@@ -36,7 +36,7 @@
         <div class="my-0 py-0 my-sm-5 py-sm-5">
             <div class="row row-cols-1">
                 <h2 class="hero-title text-center py-5">
-                    Triangle <span class="text-success fwsm">Solution</span>
+                     <span class="text-success fwsm">Triangle Solution</span>
                 </h2>
             </div>
             <div class="row row-cols-1 row-cols-sm-2 mt-md-2">
@@ -153,7 +153,7 @@
 
   <header class="section-header text-center">
   <h2 class="hero-title text-center py-5">
-                    Our <span class="text-success fwsm">Purpose</span>
+                     <span class="text-success fwsm">Our Purpose</span>
                 </h2>
   </header>
 
