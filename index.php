@@ -562,8 +562,8 @@
         <div class="img"></div>
         <div class="content">
             <div>
-                <h3 class="hero-title ll ll1">A Full Service Oriented Company</h3>
-                <a href="/services" class="btn btn-lg mybtn5 mt-3">Learn More about our Services</a>
+                <h3 class="hero-title llc ll1">A Full Service Oriented Company</h3>
+                <a href="/services" class="btn btn-lg mybtn mt-3">Learn More about our Services</a>
             </div>
         </div>
     </div>

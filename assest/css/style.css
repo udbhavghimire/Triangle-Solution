@@ -794,13 +794,6 @@
   padding: 200px 0px;
   position: relative;
 }
-.cont-career {
-  background: url("../images/students.png");
-  background-position: center;
-  background-size: cover;
-  padding: 200px 0px;
-  position: relative;
-}
 .content {
   position: absolute;
   margin-left: auto;
@@ -815,6 +808,9 @@
 }
 .ll {
   color: rgb(255, 255, 255) !important;
+}
+.llc {
+  color: #ff9900 !important;
 }
 .ll1 {
   font-family: "Poppins", sans-serif;

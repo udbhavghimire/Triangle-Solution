@@ -97,8 +97,8 @@
         <div class="img"></div>
         <div class="content">
             <div>
-                <h3 class="hero-title ll ll1">Triangle Solution - Expertise and Experienced</h3>
-                <a href="/about" class="btn btn-lg mybtn5 mt-3">Know more About Us</a>
+                <h3 class="hero-title llc ll1">Triangle Solution - Expertise and Experienced</h3>
+                <a href="/about" class="btn btn-lg mybtn mt-3">Know more About Us</a>
             </div>
         </div>
     </div>
