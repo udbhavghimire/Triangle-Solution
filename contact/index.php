@@ -18,7 +18,7 @@
     $page = "contact";
     include "../header.php";
     ?>
-    <div class="cont-services">
+    <!-- <div class="cont-services">
         <div class="img"></div>
         <div class="content">
             <div>
@@ -28,7 +28,7 @@
                 </p>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!--Contact section start-->
     <div class="container pb-5">

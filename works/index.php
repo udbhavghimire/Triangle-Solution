@@ -23,9 +23,9 @@
     include "../header.php";
     ?>
 
-    <div class="cont-services">
-        <div class="img"></div>
-        <div class="content">
+    <div class="cont-works">
+        <div class="img2"></div>
+        <div class="content2">
             <div>
                 <h3 class="hero-title ll ll1">Portfolio</h3>
                 <p class="ll2 ll hero-subtitle">

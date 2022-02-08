@@ -20,12 +20,12 @@
     ?>
 
     <div class="cont-services">
-        <div class="img"></div>
-        <div class="content">
+        <div class="img2"></div>
+        <div class="content2">
             <div>
                 <h3 class="hero-title ll ll1">Our Services</h3>
                 <p class="ll2 ll hero-subtitle">
-                    <b>Triangle Solution</b> –  A healthy, livable, and inclusive Environment for all.
+                    <b>Triangle Solution</b> –  Work with us now.
                 </p>
             </div>
         </div>
@@ -41,10 +41,10 @@
             </div>
 
         <div class="row content--services align-items-center justify-content-between">
-          <div class="col-md-6 p-md-5" data-aos="fade-right">
+          <div class="col-md-6 p-md-5">
             <img src="../assest/images/consultancy.png" class="img-fluid" alt="">
           </div>
-          <div class="col-md-6 px-2 px-sm-3 py-3 mt-0 pt-3 pt-sm-0 px-3 mt-lg-0" data-aos="fade-up">
+          <div class="col-md-6 px-2 px-sm-3 py-3 mt-0 pt-3 pt-sm-0 px-3 mt-lg-0" >
           <h2 class="text-success fw-bold"><span class="text-dark">01. </span> <span
                                 class="gradient-text">Consultancy Support</span>
                         </h2>
@@ -64,10 +64,10 @@
         </div>
 
         <div class="row content--services align-items-center justify-content-between">
-          <div class="col-md-6 order-1 order-md-2 p-md-5" data-aos="fade-left">
+          <div class="col-md-6 order-1 order-md-2 p-md-5" >
             <img src="../assest/images/business.jpg" class="img-fluid" alt="">
           </div>
-          <div class="col-md-6 pt-5 order-2 order-md-1 px-3 px-sm-3 py-3 mt-0 pt-3 pt-sm-0 px-2 mt-lg-0" data-aos="fade-up">
+          <div class="col-md-6 pt-5 order-2 order-md-1 px-3 px-sm-3 py-3 mt-0 pt-3 pt-sm-0 px-2 mt-lg-0" >
           <h2 class="text-success fw-bold"><span class="text-dark ">02. </span> <span
                                 class="gradient-text">Business Support</span>
                         </h2>
@@ -85,10 +85,10 @@
         </div>
 
         <div class="row content--services align-items-center justify-content-between">
-          <div class="col-md-6 p-md-5" data-aos="fade-right">
+          <div class="col-md-6 p-md-5">
             <img src="../assest/images/management.jpg" class="img-fluid" alt="">
           </div>
-          <div class="col-md-6 pt-5 px-2 px-sm-3 py-3 mt-0 pt-3 pt-sm-0 px-3 mt-lg-0" data-aos="fade-up">
+          <div class="col-md-6 pt-5 px-2 px-sm-3 py-3 mt-0 pt-3 pt-sm-0 px-3 mt-lg-0" >
           <h2 class="text-success fw-bold"><span class="text-dark">03. </span> <span
                                 class="gradient-text">Management Support</span>
                         </h2>

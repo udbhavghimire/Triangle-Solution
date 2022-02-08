@@ -19,12 +19,12 @@
     include "../header.php";
     ?>
     <div class="cont-about">
-        <div class="img" ></div>
-        <div class="content">
+        <div class="img2" ></div>
+        <div class="content2">
             <div>
                 <h3 class="hero-title ll ll1">About Us</h3>
                 <p class="ll2 ll hero-subtitle">
-                    <b>Triangle Solution</b> – A healthy, livable, and inclusive Environment for all.
+                    <b>Triangle Solution</b> – A healthy and inclusive Environment for all.
 
             </div>
         </div>
@@ -122,7 +122,7 @@
     <!--Section our work end-->
 
     <!-- our Story -->
-    <div class="py-5"></div>
+    <div class=""></div>
     <div class="container py-5 ">
         <div class="my-0 py-0 my-sm-5 py-sm-5 bg-light">
             <div class="row row-cols-1 row-cols-sm-2 mt-md-2">
@@ -147,9 +147,9 @@
 
     <!-- our Values -->
 
-    <section id="values" class="values pt-5">
+    <section id="values" class="values">
 
-<div class="container pt-5" data-aos="fade-up">
+<div class="container" data-aos="fade-up">
 
   <header class="section-header text-center">
   <h2 class="hero-title text-center py-5">
