@@ -392,7 +392,7 @@
 
     <div class="container pb-5 pb-sm-5 px-4 p-sm-5">
             <h2 class="hero-title text-center pb-0 pt-5">
-                 <span class="text-success fwsm">Our Clients</span>
+                 <span class="text-success fwsm">Our Partners</span>
             </h2>
             <p class="hero-subtitle text-center">Providing value to your business</p>
             <div class="row text-center features pt-md-5 pt-sm-3">
@@ -403,7 +403,7 @@
                   
                 <div class="feature-box align-items-center">
                    <div class="row py-3">
-                   <img src="assest/images/google.png" class="img-fluid" alt="">
+                   <img src="assest/images/p1.png" class="img-fluid" alt="">
                    </div> 
                   <h3>Environment & Public Health Organization (ENPHO)</h3>
                 </div>
@@ -412,7 +412,7 @@
               <div class="col-md-3 col-sm-6 col-6" data-aos="zoom-out" data-aos-delay="300">
                 <div class="feature-box align-items-center">
                 <div class="row py-3">
-                   <img src="assest/images/google.png" class="img-fluid" alt="">
+                   <img src="assest/images/p2.png" class="img-fluid" alt="">
                    </div> 
                   <h3>Innovative Solutions Pvt. Ltd.</h3>
                 </div>
@@ -421,7 +421,7 @@
               <div class="col-md-3 col-sm-6 col-6" data-aos="zoom-out" data-aos-delay="400">
                 <div class="feature-box align-items-center">
                 <div class="row py-3">
-                   <img src="assest/images/google.png" class="img-fluid" alt="">
+                   <img src="assest/images/p3.png" class="img-fluid" alt="">
                    </div> 
                   <h3>EcoConcern Pvt. Ltd.</h3>
                 </div>
@@ -430,7 +430,7 @@
               <div class="col-md-3 col-sm-6 col-6" data-aos="zoom-out" data-aos-delay="500">
                 <div class="feature-box align-items-center">
                 <div class="row py-3">
-                   <img src="assest/images/google.png" class="img-fluid" alt="">
+                   <img src="assest/images/p4.png" class="img-fluid" alt="">
                    </div> 
                   <h3>500B Solutions Pvt. Ltd.</h3>
                 </div>
@@ -440,8 +440,11 @@
           </div>
             </div>
     </div>
+    <div class="py-3"></div>
 
-    <div class="pt-5"></div>
+
+<!-- Testimonial  -->
+    <!-- <div class="pt-5"></div>
     <div class="my-0 py-5 my-sm-5 bg-light">
         <div class="container px-4 p-sm-5">
             <h2 class="hero-title text-center pb-0 pt-5">
@@ -476,7 +479,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
 
     
@@ -484,13 +487,14 @@
 
 
     <!-- location map -->
+    <div class="my-0 pt-5 my-sm-0">
   <div class="container px-4">
       <div class="row text-center">
       <h2 class="hero-title text-center pb-0 pt-5">
                 <span class="text-success fwsm">Find us where we are</span>
         </h2>
         <div class="pt-5 map-responsive">
-        <iframe class="google-map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14132.0234448709!2d85.31344033165037!3d27.686213724808997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb19b711261b9d%3A0xc50ac7fa4caee2!2sJwagal%2C%20Lalitpur%2044600!5e0!3m2!1sen!2snp!4v1644154459082!5m2!1sen!2snp" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        <iframe class="google-map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3533.0923977403413!2d85.32602254259463!3d27.683538982385482!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4872cdea9c9daa9c!2zMjfCsDQxJzAwLjciTiA4NcKwMTknNDAuMyJF!5e0!3m2!1sen!2snp!4v1644481405583!5m2!1sen!2snp" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
       </div>
   </div>
