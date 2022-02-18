@@ -400,40 +400,47 @@
             <div class="row align-self-center gy-4">
 
               <div class="col-md-3 col-sm-6 col-6" data-aos="zoom-out" data-aos-delay="200">
-                  
+                  <a href="https://enpho.org/" target="_blank" class="text-decoration-none text-dark">
                 <div class="feature-box align-items-center">
                    <div class="row py-3">
                    <img src="assest/images/p1.png" class="img-fluid" alt="">
                    </div> 
                   <h3>Environment & Public Health Organization (ENPHO)</h3>
                 </div>
+                </a>
               </div>
 
               <div class="col-md-3 col-sm-6 col-6" data-aos="zoom-out" data-aos-delay="300">
+              <a href="https://innovativesolution.com.np" target="_blank" class="text-decoration-none text-dark">
                 <div class="feature-box align-items-center">
                 <div class="row py-3">
                    <img src="assest/images/p2.png" class="img-fluid" alt="">
                    </div> 
                   <h3>Innovative Solutions Pvt. Ltd.</h3>
                 </div>
+                </a>
               </div>
 
               <div class="col-md-3 col-sm-6 col-6" data-aos="zoom-out" data-aos-delay="400">
+              <a href="https://ecoconcern.com.np" target="_blank" class="text-decoration-none text-dark">
                 <div class="feature-box align-items-center">
                 <div class="row py-3">
                    <img src="assest/images/p3.png" class="img-fluid" alt="">
                    </div> 
                   <h3>EcoConcern Pvt. Ltd.</h3>
                 </div>
+            </a>
               </div>
 
               <div class="col-md-3 col-sm-6 col-6" data-aos="zoom-out" data-aos-delay="500">
+              <a href="http://www.500bsolutions.org" target="_blank" class="text-decoration-none text-dark">
                 <div class="feature-box align-items-center">
                 <div class="row py-3">
                    <img src="assest/images/p4.png" class="img-fluid" alt="">
                    </div> 
                   <h3>500B Solutions Pvt. Ltd.</h3>
                 </div>
+                </a>
               </div>
 
             </div>

@@ -70,7 +70,7 @@
             <a href="/about" class="linkss ab mx-2">About</a>
             <a href="/services" class="linkss ab mx-2">Services</a>
             <a href="/works" class="linkss ab mx-2">Works</a>
-            <a href="/our team" class="linkss ab mx-2">Our Team</a>
+            <!-- <a href="/our team" class="linkss ab mx-2">Our Team</a> -->
             <a href="/contact" class="linkss ab mx-2">Contact</a>
         </div>
         <p class="text-center hero-subtitle">
