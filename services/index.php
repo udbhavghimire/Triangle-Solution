@@ -45,7 +45,7 @@
             <img src="../assest/images/consultancy.png" class="img-fluid" alt="">
           </div>
           <div class="col-md-6 px-2 px-sm-3 py-3 mt-0 pt-3 pt-sm-0 px-3 mt-lg-0" >
-          <h2 class="text-success fw-bold"><span class="text-dark">01. </span> <span
+          <h2 class="text-success fw-bold"><span class="text-dark"> </span> <span
                                 class="gradient-text">Consultancy Support</span>
                         </h2>
                         <br>
@@ -68,7 +68,7 @@
             <img src="../assest/images/business.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-6 pt-5 order-2 order-md-1 px-3 px-sm-3 py-3 mt-0 pt-3 pt-sm-0 px-2 mt-lg-0" >
-          <h2 class="text-success fw-bold"><span class="text-dark ">02. </span> <span
+          <h2 class="text-success fw-bold"><span class="text-dark "></span> <span
                                 class="gradient-text">Business Support</span>
                         </h2>
                         <br>
@@ -89,7 +89,7 @@
             <img src="../assest/images/management.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-6 pt-5 px-2 px-sm-3 py-3 mt-0 pt-3 pt-sm-0 px-3 mt-lg-0" >
-          <h2 class="text-success fw-bold"><span class="text-dark">03. </span> <span
+          <h2 class="text-success fw-bold"><span class="text-dark"></span> <span
                                 class="gradient-text">Management Support</span>
                         </h2>
                         <br>

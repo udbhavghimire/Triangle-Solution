@@ -271,7 +271,7 @@
     </div> -->
 
 
-    <div class="py-5 my-5"></div>
+    <!-- <div class="py-5 my-5"></div>
     <section class="contact-section cta-bg img-bg py-5" style="background-image: url('assest/images/cta-bg.jpg');">
       <div class="container py-3">
         <div class="row align-items-center">
@@ -291,7 +291,7 @@
         </div>
       </div>
     </section>
-    <div class="py-4 my-3"></div>
+    <div class="py-4 my-3"></div> -->
 
     <!-- what we have achieved so far -->
     
