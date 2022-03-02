@@ -39,7 +39,7 @@
                 </div>
                 <h6 class="text-center mytitle">Let's get in touch !</h6>
                 <h6 class="text-center">Triangle Solution - </span><span><a
-                            href="mailto:info@trianglesolution.com.np">info@trianglesolution.com.np</a></h6>
+                            href="mailto:trianglesolution20@gmail.com">trianglesolution20@gmail.com</a></h6>
             </div>
             <div class="row row-cols-1 row-cols-md-3 mt-5">
                 <div class="col-md-3"></div>
