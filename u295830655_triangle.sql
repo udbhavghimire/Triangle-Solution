@@ -2,10 +2,10 @@
 -- version 5.1.1
 -- https://www.phpmyadmin.net/
 --
--- Host: 127.0.0.1
--- Generation Time: Mar 02, 2022 at 09:43 AM
--- Server version: 10.4.22-MariaDB
--- PHP Version: 8.1.2
+-- Host: 127.0.0.1:3306
+-- Generation Time: Mar 02, 2022 at 08:51 AM
+-- Server version: 10.5.13-MariaDB-cll-lve
+-- PHP Version: 7.2.34
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `trianglesolution`
+-- Database: `u295830655_triangle`
 --
 
 -- --------------------------------------------------------
@@ -70,8 +70,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `fname`, `lname`, `email`, `username`, `password`, `admin_status`) VALUES
-(2, 'udbhav', 'ghimire', 'ghimireudbhav@gmail.com', 'udbhavgh', '$2y$10$DOczqifoaZdRd6cng9Zdrec0eSmROorVO2.l0lXgclqn0NIt4/ggK', 0),
-(3, 'Vishal', 'Dhakal', 'vishaldhakal96@gmail.com', 'vishal', '$2y$10$GR2pdbqMyYwyKJ7toMiWa.1rHdai.ts6VpcMmkHuk8/ahfLF6H2uK', 1);
+(3, 'Vishal', 'Dhakal', 'vishaldhakal96@gmail.com', 'vishal', '$2y$10$GR2pdbqMyYwyKJ7toMiWa.1rHdai.ts6VpcMmkHuk8/ahfLF6H2uK', 1),
+(4, 'Triangle', 'Solution', 'trianglesolution@gmail.com', 'triangleadmin', '$2y$10$T97hIfOWCg5v8ZKKZBHqG.1YAxQvvCF2WXf4lqcI2ygYj.ZNhJxOq', 1);
 
 --
 -- Indexes for dumped tables
@@ -97,13 +97,13 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT for table `project`
 --
 ALTER TABLE `project`
-  MODIFY `p_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=19;
+  MODIFY `p_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=22;
 
 --
 -- AUTO_INCREMENT for table `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
