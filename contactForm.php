@@ -15,9 +15,9 @@
     $mail->Port = 465; // or 587
     $mail->IsHTML(true);
 
-    $mail->Username = "info@trianglesolution.com.np"; //Enter email
-    $mail->Password = "TrianglePassword";
-    $mail->SetFrom("info@trianglesolution.com.np"); //Enter email
+    $mail->Username = "trianglebuzzvelocity@gmail.com"; //Enter email
+    $mail->Password = "@Triangle123";
+    $mail->SetFrom("trianglebuzzvelocity@gmail.com"); //Enter email
     $mail->AddAddress("info@.com.np");
 	$mail->addReplyTo($_POST['email']);
     $mail->Subject = "Contact Form Submit";
@@ -40,6 +40,8 @@
             header("Location:/about");
         }else if($_POST['form_no'] == "form_services"){
             header("Location:/services");
+        }else if($_POST['form_no'] == "form_works"){
+            header("Location:/works");
         }else if($_POST['form_no'] == "form_contact"){
             header("Location:/contact");
         }else{
@@ -54,6 +56,8 @@
             header("Location:/about");
         }else if($_POST['form_no'] == "form_services"){
             header("Location:/services");
+        }else if($_POST['form_no'] == "form_works"){
+            header("Location:/works");
         }else if($_POST['form_no'] == "form_contact"){
             header("Location:/contact");
         }else{
